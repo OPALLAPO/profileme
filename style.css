@@ -1,0 +1,59 @@
+body{
+    font-family: 'roboto',sans-serif;
+}
+
+#wrapper{
+    max-width: 500px;
+    margin: 0 auto;
+    overflow: hidden;
+    background-image: url(luffy-one-piece.gif);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.kotak{
+    width: 400px;
+    height: 50px;
+    border: solid 3px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 10px;
+    display: block;
+    font-size: 30px;
+    text-emphasis: none;
+    color: red;
+    background-color: white;
+    margin-bottom: 10px;
+    background-image: url(fd.gif);
+}
+#header h3{
+    background-color: gold;
+    color: red;
+}
+
+.kotak:hover{
+    background-color: gold;
+    color: aqua;
+    
+}
+#header{
+    text-align: center;
+    font-size: 35px;
+}
+
+#header img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-top: 12 0px;
+    border:groove red 10px;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+    background-color: gold;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
